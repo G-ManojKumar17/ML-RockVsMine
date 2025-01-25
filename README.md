@@ -1,5 +1,4 @@
-## **Rock vs Mine | Machine Learning**  
-### **Rock Mine Prediction**  
+## **Rock vs Mine Classifier | Machine Learning**  
 
 In this project, we developed a **Machine Learning model** to classify whether a given object is a **rock or a mine** based on provided data.  
 
